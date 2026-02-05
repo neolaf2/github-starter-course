@@ -100,7 +100,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
+* How to use GitHub branches (BROKEN LINK on GitHub Actions: https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be) — please replace with a working video
 * [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 * GitHub's Learning Lab (BROKEN LINK: lab.github.com) — replacement: [GitHub Skills](https://skills.github.com/)
 * [Education community forum](https://education.github.community/)
